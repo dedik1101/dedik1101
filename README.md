@@ -1,4 +1,4 @@
-[Header](https://github.com/TimonLimon/TimonLimon/blob/main/other/github-user-contribution.svg)
+![[Header](https://github.com/TimonLimon/TimonLimon/blob/main/other/github-user-contribution.svg)]
 
 # Разработчик интересных проектов в игре MineCraft.
 
